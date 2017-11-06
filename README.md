@@ -14,7 +14,7 @@ suits you.
 ## Install
 
 ```bash
-go get github.com/fatih/color
+go get github.com/mtmoses/color
 ```
 
 Note that the `vendor` folder is here for stability. Remove the folder if you
